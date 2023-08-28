@@ -200,7 +200,7 @@ def main():
                 valor2 = float(input("Ingrese el segundo valor: "))
             elif opcion == 3:
                 if valor1 is None or valor2 is None:
-                    print("Debe ingresar un valor antes de realizar la operación.")
+                    print("Debe ingresar ambos valores antes de realizar la operación.")
                 else:
                     print("Suma:", valor1 + valor2)
             elif opcion == 4:
