@@ -1,0 +1,38 @@
+/* Estilos generales */
+body {
+    font-family: 'Pacifico', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Estilos específicos para cada sección */
+.contenido {
+    padding: 20px;
+}
+
+/* Estilos para la imagen en la sección de inicio */
+.contenido img {
+    max-width: 100%;
+    height: auto;
+}
