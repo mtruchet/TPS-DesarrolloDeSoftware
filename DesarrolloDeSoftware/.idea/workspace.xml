@@ -4,9 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4956128f-1572-433c-9223-61ba92a611b4" name="Changes" comment="Ejercicio HTML">
+    <list default="true" id="4956128f-1572-433c-9223-61ba92a611b4" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/com/ar/desarrolloSoftware/DesarrolloSoftwareApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/com/ar/desarrolloSoftware/config/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/com/ar/desarrolloSoftware/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/com/ar/desarrolloSoftware/dto/ProductDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/com/ar/desarrolloSoftware/exception/NotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/com/ar/desarrolloSoftware/models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/com/ar/desarrolloSoftware/repositories/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/com/ar/desarrolloSoftware/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/src/test/java/com/ar/desarrolloSoftware/DesarrolloSoftwareApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/srcviejo/main/java/com/example/backendapp/BackendAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/srcviejo/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-app/srcviejo/test/java/com/example/backendapp/BackendAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/src/components/ExampleComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-app/static/.gitkeep" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend-web-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-web-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend-web-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-web-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_example_app" beforeDir="false" afterPath="$PROJECT_DIR$/../django_example_app" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +85,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
@@ -48,25 +99,40 @@
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
     "go.import.settings.migrated": "true",
-    "last_opened_file_path": "/Users/mautruchet/Documents/Sistemas2023/DesarrolloDeSoftware/TPS-DesarrolloDeSoftware/DesarrolloDeSoftware",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "/Users/mautruchet/Documents/Sistemas2023/DesarrolloDeSoftware/TPS-DesarrolloDeSoftware/DesarrolloDeSoftware/frontend-app",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
     "show.migrate.to.gradle.popup": "false",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend-app" />
+      <recent name="$PROJECT_DIR$/backend-app/src/main/java/com/ar/desarrolloSoftware" />
+      <recent name="$PROJECT_DIR$/backend-app" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.manage">
+  <component name="RunManager" selected="Spring Boot.DesarrolloSoftwareApplication">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:5173">
+      <method v="2" />
+    </configuration>
+    <configuration name="pom.xml" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DesarrolloDeSoftware/DesarrolloDeSoftware/backend-web/pom.xml" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="ejercicio_funciones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DesarrolloDeSoftware" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,8 +200,30 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="BackendAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="backend-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.backendapp.BackendAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesarrolloSoftwareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="backend-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ar.desarrolloSoftware.DesarrolloSoftwareApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ar.desarrolloSoftware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.DesarrolloSoftwareApplication" />
+        <item itemvalue="JavaScript Debug.pom.xml" />
         <item itemvalue="Python.manage" />
         <item itemvalue="Python.ejercicio_funciones" />
       </list>
@@ -161,6 +249,8 @@
       <workItem from="1696284730466" duration="347000" />
       <workItem from="1698177293803" duration="17000" />
       <workItem from="1698178603129" duration="309000" />
+      <workItem from="1698179320279" duration="287000" />
+      <workItem from="1698179634610" duration="3303000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio HTML">
       <created>1694470820472</created>
@@ -169,7 +259,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694470820472</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added back and front for TP">
+      <option name="closed" value="true" />
+      <created>1698179420103</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698179420103</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <option name="closed" value="true" />
+      <created>1698179543361</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698179543361</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,12 +293,19 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Ejercicios phyton" />
     <MESSAGE value="Ejercicio HTML" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio HTML" />
+    <MESSAGE value="Added back and front for TP" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DesarrolloDeSoftware$ejercicio_funciones.coverage" NAME="ejercicio_funciones Coverage Results" MODIFIED="1691533261708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
