@@ -5,54 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4956128f-1572-433c-9223-61ba92a611b4" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/com/ar/desarrolloSoftware/DesarrolloSoftwareApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/com/ar/desarrolloSoftware/config/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/com/ar/desarrolloSoftware/controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/com/ar/desarrolloSoftware/dto/ProductDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/com/ar/desarrolloSoftware/exception/NotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/com/ar/desarrolloSoftware/models/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/com/ar/desarrolloSoftware/repositories/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/com/ar/desarrolloSoftware/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/src/test/java/com/ar/desarrolloSoftware/DesarrolloSoftwareApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/srcviejo/main/java/com/example/backendapp/BackendAppApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/srcviejo/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-app/srcviejo/test/java/com/example/backendapp/BackendAppApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/.postcssrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/config/dev.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/config/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/config/prod.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/src/components/ExampleComponent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-app/static/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend-web-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-web-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend-web-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-web-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django_example_app" beforeDir="false" afterPath="$PROJECT_DIR$/../django_example_app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-app/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +61,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",

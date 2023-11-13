@@ -1,25 +1,21 @@
 <template>
   <div id="app">
-    <productoLista/>
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-import ProductoLista from '@/components/producto/ProductoLista.vue';
-import Producto from './components/producto/Producto.vue';
 
 export default {
   name: 'App',
   components: {
-    Producto,
-    ProductoLista
   }
 }
 </script>
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
