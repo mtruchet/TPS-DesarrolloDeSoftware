@@ -1,5 +1,6 @@
 package com.ar.desarrolloSoftware.service;
 
+import com.ar.desarrolloSoftware.dtoFilter.ProductFilterDto;
 import com.ar.desarrolloSoftware.exception.NotFoundException;
 import com.ar.desarrolloSoftware.models.Product;
 import com.ar.desarrolloSoftware.repositories.ProductRepository;
@@ -44,4 +45,29 @@ public class ProductService {
     public List<Product> getAllProductsSortedByPrice() {
         return productRepository.findAllByOrderByPrice();
     }
+    public List<Product> getByFilterBusqueda(ProductFilterDto productFilter) {
+        String name = productFilter.getName();
+        String description = productFilter.getDescription();
+        double price = productFilter.getPrice();
+
+        if (name != null && description != null && price > 0) {
+            return productRepository.findByNameAndDescriptionAndPrice(name, description, price);
+        } else if (name != null && description != null) {
+            return productRepository.findByNameAndDescription(name, description);
+        } else if (name != null && price > 0) {
+            return productRepository.findByNameAndPrice(name, price);
+        } else if (description != null && price > 0) {
+            return productRepository.findByDescriptionAndPrice(description, price);
+        } else if (name != null) {
+            return productRepository.findByName(name);
+        } else if (description != null) {
+            return productRepository.findByDescription(description);
+        } else if (price > 0) {
+            return productRepository.findByPrice(price);
+        } else {
+            return productRepository.findAll();
+        }
+    }
+
+
 }

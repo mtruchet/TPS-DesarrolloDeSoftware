@@ -1,6 +1,7 @@
 package com.ar.desarrolloSoftware.controller;
 
 import com.ar.desarrolloSoftware.dto.ProductDto;
+import com.ar.desarrolloSoftware.dtoFilter.ProductFilterDto;
 import com.ar.desarrolloSoftware.models.Product;
 import com.ar.desarrolloSoftware.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -46,6 +47,11 @@ public class ProductController {
     @GetMapping("/sorted-by-price")
     public List<Product> getAllProductsSortedByPrice() {
         return productService.getAllProductsSortedByPrice();
+    }
+
+    @PostMapping("/searchProduct")
+    public List<Product> getByFilterBusqueda(@RequestBody ProductFilterDto productFilter) {
+        return productService.getByFilterBusqueda(productFilter);
     }
 
 }
